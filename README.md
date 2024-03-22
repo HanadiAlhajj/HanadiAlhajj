@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hanadi Alhajj
 - 👀 I’m interested in building web app 
 - 🌱 I’m currently learning react.js library and related tools nd technology
-- 💞️ I’m looking to collaborate on any open source project or any intership that allow me to get experience
+- 💞️ I’m looking to collaborate on any open source project or any internship that allow me to get more experience
 - 📫 How to reach me hanadi.alhaj89@gmail.com
 
 
